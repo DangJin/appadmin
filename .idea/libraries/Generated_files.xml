@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/src/api/article/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/api/config.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/api/mock/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/api/article/article.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/actions.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/api/Order/Order.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/getters.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/state.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/api/mock/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/mutations.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/mutation-types.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/src/api/article/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/api/config.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/api/mock/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/api/article/article.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/actions.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/api/Order/Order.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/getters.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/state.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/api/mock/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/mutations.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/mutation-types.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
